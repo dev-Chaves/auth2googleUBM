@@ -3,12 +3,12 @@ const Team = () => {
     {
       name: "JOAO VITOR CHAVES",
       bio: "DESENVOLVEDOR FOCADO EM ARQUITETURA WEB E SISTEMAS ESCALAVEIS. BACKEND SWE",
-      skills: ["REACT", "TYPESCRIPT", "NODE.JS", "PYTHON"]
+      skills: ["JAVA", "SPRING", "QUARKUS", "AWS"]
     },
     {
       name: "ROMULO LUNA",
       bio: "ENGENHERIO DE SOFTWARE, IA/ML.",
-      skills: ["PYTHON", "IA/ML", "DATA SCIENCE"]
+      skills: ["PYTHON", "IA/ML", "DATA SCIENCE", "C++", "N8N"]
     }
   ];
 
